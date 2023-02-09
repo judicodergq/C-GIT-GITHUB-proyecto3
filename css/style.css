@@ -16,3 +16,10 @@ body
     width: 70%;
 
 }
+#cabecera
+{
+    background-color: antiquewhite;
+}
+#cabecera h1{
+    color: brown;
+}
