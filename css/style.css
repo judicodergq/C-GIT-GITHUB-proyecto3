@@ -1,0 +1,18 @@
+body
+{
+    align-items: center;
+    text-align: center;
+    background-color: rgb(239, 167, 240);
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+
+
+}
+#container 
+{
+    border: 5px solid rebeccapurple ;
+    text-align: left;
+    width: 70%;
+
+}
